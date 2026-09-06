@@ -1,10 +1,11 @@
 ## TPE- Plataforma de Videojuegos
 
-#Trabajo Práctico Evaluativo correspondiente a la materia.
-#Grupo 20
+Trabajo Práctico Evaluativo correspondiente a la materia.
+Grupo 20
+
 ##Integrantes
-#Bruno, Franco
-#Tolaba, Anibal
+Bruno, Franco
+Tolaba, Anibal
 
 ##Prototipo
 
